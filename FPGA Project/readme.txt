@@ -1,4 +1,9 @@
 FPGA Project -> Music Box
+
+BIG CHANGES
+Changed ROM for music.v
+Changed frequency for music.v
+
 Download and install atom at https://atom.io/
 
 Once installed do the following
